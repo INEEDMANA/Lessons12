@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A5F8335F-CB61-634C-B557-AB74431D537A}</ProjectGuid>
+    <ProjectGuid>{9F07B304-D7E8-908C-10F5-675ACD02C888}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -74,6 +74,32 @@
      <Compile Include="Assets\33-80 (Task 1)\Lessons53.cs" />
      <Compile Include="Assets\33-80 (Task 1)\Lessons54.cs" />
      <Compile Include="Assets\33-80 (Task 1)\Lessons55.cs" />
+     <Compile Include="Assets\33-80 (Task 1)\lessons56.cs" />
+     <Compile Include="Assets\33-80 (Task 1)\Lessons57.cs" />
+     <Compile Include="Assets\33-80 (Task 1)\Lessons58.cs" />
+     <Compile Include="Assets\33-80 (Task 1)\Lessons68.cs" />
+     <Compile Include="Assets\33-80 (Task 1)\Lessons69.cs" />
+     <Compile Include="Assets\59-67 (Task 1) some problems\Lessons 59.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons75.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons76.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons77.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons78.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons79.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons80.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons81.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons82.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons83.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons84.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons86.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons87.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons88.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons89.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons90.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons91.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons92.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons93.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons94.cs" />
+     <Compile Include="Assets\75-150 (Task1 )\Lessons95.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
