@@ -51,6 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\1-75(Task 2) (array)\Lesson11.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lesson15.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lesson18.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson1.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson2.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson3.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson4.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson5.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson6.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson8.cs" />
+     <Compile Include="Assets\1-75(Task 2) (array)\Lessson9.cs" />
      <Compile Include="Assets\33-80 (Task 1)\Lessons33.cs" />
      <Compile Include="Assets\33-80 (Task 1)\Lessons34.cs" />
      <Compile Include="Assets\33-80 (Task 1)\Lessons35.cs" />
@@ -100,6 +111,9 @@
      <Compile Include="Assets\75-150 (Task1 )\Lessons93.cs" />
      <Compile Include="Assets\75-150 (Task1 )\Lessons94.cs" />
      <Compile Include="Assets\75-150 (Task1 )\Lessons95.cs" />
+     <Compile Include="Assets\before OOP\Lesson1.cs" />
+     <Compile Include="Assets\before OOP\Lesson2.cs" />
+     <Compile Include="Assets\before OOP\Lesson3.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
